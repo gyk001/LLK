@@ -28,3 +28,7 @@
 * [日语单词学习机](https://github.com/gyk001/JPWord#readme)
 
 [llk]: https://github.com/gyk001/LLK/raw/master/output/CLLK.exe
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gyk001/llk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
